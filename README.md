@@ -72,6 +72,14 @@ Designed to improve roleplay immersion and economy balancing:
 
 ---
 
+## ⚙️ Linked Assets:
+
+* ak47_smokingv2: https://menanak47.tebex.io/package/5119608
+* ak47_map_khusbites: https://menanak47.tebex.io/package/6486373
+* ak47_clothing_khusbites: https://menanak47.tebex.io/package/6484099
+
+---
+
 ## 🔗 Links & Support:
 
 * **📖 Documentation:** [https://docs.menanak47.com/multi-framework/ak47_khusbites](https://docs.menanak47.com/multi-framework/ak47_khusbites)
